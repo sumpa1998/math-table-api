@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from core.table_calculator import TableCalculator
+from src.core.table_calculator import TableCalculator
 
 
 class ProcessTable:
